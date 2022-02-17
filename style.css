@@ -1,0 +1,32 @@
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+
+header {
+    color: #07123A;
+    width: 100%;
+    border: 10px solid #004011;
+    background-color: #6B949E;
+    line-height: 60px;
+    position: fixed;
+  }
+
+  footer {
+      position: absolute;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    border: 9px #012B35;
+}
+
+#font {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
